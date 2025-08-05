@@ -103,4 +103,4 @@ No installation required. Just open the `.pbix` file in Power BI Desktop. Ensure
 ## 📄 License
 This project is open for educational and portfolio use. For commercial use, please contact the author.
 
-![image alt]()
+![image alt](https://raw.githubusercontent.com/ChandruElamaran/powerbi-project-sales-report/00ff3ed04ab6ac77c5a528f8e7efed27df3d8805/powerbi%20project.png)
